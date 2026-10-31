@@ -1,16 +1,15 @@
-## Hi there 👋
+I build indie apps and share the progress, demos, and decisions along the way.
 
-<!--
-**eason-yty/eason-yty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Oyomap
 
-Here are some ideas to get you started:
+Turn photos, Live Photos, and videos into map journeys.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Download on the App Store](https://apps.apple.com/us/app/oyomap/id6799545137)
+
+## Follow the build
+
+[Updates and demos on X · @fries_yty](https://x.com/fries_yty)
+
+---
+
+Alongside my independent projects, I’m a Senior Software Engineer at AWS.
